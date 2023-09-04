@@ -4,45 +4,9 @@
     // 자세한 내용을 보려면 https://go.microsoft.com/fwlink/?linkid=830387을(를) 방문하세요.
     "version": "0.2.0",
     "configurations": [
-        {
-            "name": "helloworld",
-            "cwd": "01.codefactory\\ch04\\helloworld",
-            "request": "launch",
-            "type": "dart"
-        },
-        {
-            "name": "helloworld (profile mode)",
-            "cwd": "01.codefactory\\ch04\\helloworld",
-            "request": "launch",
-            "type": "dart",
-            "flutterMode": "profile"
-        },
-        {
-            "name": "helloworld (release mode)",
-            "cwd": "01.codefactory\\ch04\\helloworld",
-            "request": "launch",
-            "type": "dart",
-            "flutterMode": "release"
-        },
-        {
-            "name": "basic_widgets",
-            "cwd": "01.codefactory\\ch05\\basic_widgets",
-            "request": "launch",
-            "type": "dart"
-        },
-        {
-            "name": "basic_widgets (profile mode)",
-            "cwd": "01.codefactory\\ch05\\basic_widgets",
-            "request": "launch",
-            "type": "dart",
-            "flutterMode": "profile"
-        },
-        {
-            "name": "basic_widgets (release mode)",
-            "cwd": "01.codefactory\\ch05\\basic_widgets",
-            "request": "launch",
-            "type": "dart",
-            "flutterMode": "release"
-        }
+        
+
+
+        
     ]
 }

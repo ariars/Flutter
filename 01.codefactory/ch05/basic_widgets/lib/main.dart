@@ -32,31 +32,31 @@ class MyApp extends StatelessWidget {
           mainAxisAlignment: MainAxisAlignment.start,
           crossAxisAlignment: CrossAxisAlignment.center,
           children: [
-            // SizedBox(
-            //   width: double.infinity,
-            //   height: 50.0,
-            //   child: TextWidgetExample(),
-            // ),
-            // SizedBox(
-            //   width: double.infinity,
-            //   height: 50.0,
-            //   child: TextButtonWidgetExample(),
-            // ),
-            // SizedBox(
-            //   width: double.infinity,
-            //   height: 50.0,
-            //   child: OutlinedButtonWidgetExample(),
-            // ),
-            // SizedBox(
-            //   width: double.infinity,
-            //   height: 50.0,
-            //   child: ElevatedButtonWidgetExample(),
-            // ),
-            // SizedBox(
-            //   width: double.infinity,
-            //   height: 50.0,
-            //   child: IconButtonWidgetExample(),
-            // ),
+            SizedBox(
+              width: double.infinity,
+              height: 50.0,
+              child: TextWidgetExample(),
+            ),
+            SizedBox(
+              width: double.infinity,
+              height: 50.0,
+              child: TextButtonWidgetExample(),
+            ),
+            SizedBox(
+              width: double.infinity,
+              height: 50.0,
+              child: OutlinedButtonWidgetExample(),
+            ),
+            SizedBox(
+              width: double.infinity,
+              height: 50.0,
+              child: ElevatedButtonWidgetExample(),
+            ),
+            SizedBox(
+              width: double.infinity,
+              height: 50.0,
+              child: IconButtonWidgetExample(),
+            ),
             SizedBox(
               width: double.infinity,
               height: 50.0,
