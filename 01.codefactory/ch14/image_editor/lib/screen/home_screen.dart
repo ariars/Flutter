@@ -4,7 +4,7 @@ import 'package:image_editor/model/sticker_model.dart';
 import 'dart:io';
 import 'package:image_picker/image_picker.dart';
 import 'package:image_editor/component/footer.dart';
-import 'package:image_editor/model/sticker_model.dart';
+//import 'package:image_editor/model/sticker_model.dart';
 import 'package:image_editor/component/emoticon_sticker.dart';
 import 'package:uuid/uuid.dart';
 import 'package:flutter/rendering.dart';
