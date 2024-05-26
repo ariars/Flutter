@@ -1,0 +1,308 @@
+{
+    // IntelliSense를 사용하여 가능한 특성에 대해 알아보세요.
+    // 기존 특성에 대한 설명을 보려면 가리킵니다.
+    // 자세한 내용을 보려면 https://go.microsoft.com/fwlink/?linkid=830387을(를) 방문하세요.
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "helloworld",
+            "cwd": "ch04\\helloworld",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "helloworld (profile mode)",
+            "cwd": "ch04\\helloworld",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "helloworld (release mode)",
+            "cwd": "ch04\\helloworld",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "basic_widgets",
+            "cwd": "ch05\\basic_widgets",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "basic_widgets (profile mode)",
+            "cwd": "ch05\\basic_widgets",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "basic_widgets (release mode)",
+            "cwd": "ch05\\basic_widgets",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "splash_screen",
+            "cwd": "ch06\\splash_screen",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "splash_screen (profile mode)",
+            "cwd": "ch06\\splash_screen",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "splash_screen (release mode)",
+            "cwd": "ch06\\splash_screen",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "blog_web_app",
+            "cwd": "ch07\\blog_web_app",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "blog_web_app (profile mode)",
+            "cwd": "ch07\\blog_web_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "blog_web_app (release mode)",
+            "cwd": "ch07\\blog_web_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "image_carousel",
+            "cwd": "ch08\\image_carousel",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "image_carousel (profile mode)",
+            "cwd": "ch08\\image_carousel",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "image_carousel (release mode)",
+            "cwd": "ch08\\image_carousel",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "u_and_i",
+            "cwd": "ch09\\u_and_i",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "u_and_i (profile mode)",
+            "cwd": "ch09\\u_and_i",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "u_and_i (release mode)",
+            "cwd": "ch09\\u_and_i",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "Random_dice",
+            "cwd": "ch10\\Random_dice",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "Random_dice (profile mode)",
+            "cwd": "ch10\\Random_dice",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "Random_dice (release mode)",
+            "cwd": "ch10\\Random_dice",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "vid_player",
+            "cwd": "ch11\\vid_player",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "vid_player (profile mode)",
+            "cwd": "ch11\\vid_player",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "vid_player (release mode)",
+            "cwd": "ch11\\vid_player",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "video_call",
+            "cwd": "ch12\\video_call",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "video_call (profile mode)",
+            "cwd": "ch12\\video_call",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "video_call (release mode)",
+            "cwd": "ch12\\video_call",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "chool_check",
+            "cwd": "ch13\\chool_check",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "chool_check (profile mode)",
+            "cwd": "ch13\\chool_check",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "chool_check (release mode)",
+            "cwd": "ch13\\chool_check",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "image_editor",
+            "cwd": "ch14\\image_editor",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "image_editor (profile mode)",
+            "cwd": "ch14\\image_editor",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "image_editor (release mode)",
+            "cwd": "ch14\\image_editor",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "cf_tube",
+            "cwd": "ch15\\cf_tube",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "cf_tube (profile mode)",
+            "cwd": "ch15\\cf_tube",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "cf_tube (release mode)",
+            "cwd": "ch15\\cf_tube",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "calendar_scheduler",
+            "cwd": "ch16\\calendar_scheduler",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "calendar_scheduler (profile mode)",
+            "cwd": "ch16\\calendar_scheduler",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "calendar_scheduler (release mode)",
+            "cwd": "ch16\\calendar_scheduler",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "calendar_scheduler",
+            "cwd": "ch17\\calendar_scheduler",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "calendar_scheduler (profile mode)",
+            "cwd": "ch17\\calendar_scheduler",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "calendar_scheduler (release mode)",
+            "cwd": "ch17\\calendar_scheduler",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "calendar_scheduler",
+            "cwd": "ch18\\calendar_scheduler",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "calendar_scheduler (profile mode)",
+            "cwd": "ch18\\calendar_scheduler",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "calendar_scheduler (release mode)",
+            "cwd": "ch18\\calendar_scheduler",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
