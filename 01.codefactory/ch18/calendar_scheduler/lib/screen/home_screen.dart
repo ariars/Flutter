@@ -4,11 +4,10 @@ import 'package:calendar_scheduler/component/schedule_card.dart';
 import 'package:calendar_scheduler/component/today_banner.dart';
 import 'package:calendar_scheduler/component/schedule_bottom_sheet.dart';
 import 'package:calendar_scheduler/const/colors.dart';
-import 'package:get_it/get_it.dart';
-import 'package:calendar_scheduler/database/drift_database.dart';
 import 'package:provider/provider.dart'; //
 import 'package:calendar_scheduler/provider/schedule_provider.dart';
 
+// ignore: must_be_immutable
 class HomeScreen extends StatelessWidget {
   DateTime selectedDate = DateTime.utc(
     // ➋ 선택된 날짜를 관리할 변수
@@ -16,6 +15,8 @@ class HomeScreen extends StatelessWidget {
     DateTime.now().month,
     DateTime.now().day,
   );
+
+  HomeScreen({super.key});
 
   @override
   Widget build(BuildContext context) {

@@ -2,7 +2,6 @@ import 'package:calendar_scheduler/model/schedule_model.dart';
 import 'package:calendar_scheduler/repository/schedule_repository.dart';
 
 import 'package:flutter/material.dart';
-import 'package:provider/provider.dart';
 
 import 'package:uuid/uuid.dart';
 
@@ -57,7 +56,6 @@ class ScheduleProvider extends ChangeNotifier {
   void deleteSchedule({required DateTime date, required String id}) async {
     final targetSchedule = cache[date]!.firstWhere((e) => e.id == id);
 
-    final resp = await repository.deleteSchedule(id: id);
     cache.update(date, (value) => value.where((e) => e.id != id).toList(),
         ifAbsent: () => []);
 
